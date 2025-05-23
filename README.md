@@ -25,7 +25,7 @@ A interface deste portfólio foi planejada previamente em Figma.
 
 ```bash
 src/
-├── assets/                     # Recursos visuais
+├── assets/                    # Recursos visuais
 ├── components/                # Componentes reutilizáveis
 │   ├── Mars.vue
 │   ├── SiteHeader.vue
