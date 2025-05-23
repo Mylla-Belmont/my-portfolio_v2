@@ -19,7 +19,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvid
 ## 🎨 Protótipo no Figma
 
 A interface deste portfólio foi planejada previamente em Figma.  
-🔗 [Clique aqui para acessar o protótipo no Figma](https://www.figma.com/...](https://www.figma.com/design/xlIhFfdHWuvlArvo7Cc198/First-project-IULL?t=Ce32aGLaz4m4GAKP-1)) 
+🔗 [Clique aqui para acessar o protótipo no Figma](https://www.figma.com/...](https://www.figma.com/design/xlIhFfdHWuvlArvo7Cc198/First-project-IULL?t=Ce32aGLaz4m4GAKP-1)
 
 ## 📁 Estrutura do Projeto
 
