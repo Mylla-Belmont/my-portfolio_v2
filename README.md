@@ -1,24 +1,40 @@
-# my-portfolio_v2
+# 🌐 Portfólio Pessoal - Camila Belmont
 
-## Project setup
-```
-npm install
-```
+Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvido como um projeto visualmente criativo e funcional, com o objetivo de apresentar meus projetos, experiências acadêmicas e habilidades técnicas.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ✨ Tecnologias Utilizadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Vue.js 3**
+- **TypeScript**
+- **Vuetify**
+- **Vite**
+- **ESLint + Prettier**
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 🎯 Objetivos
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Demonstrar conhecimentos em Vue 3 e organização de componentes.
+- Criar uma interface moderna, temática e interativa.
+- Apresentar informações acadêmicas e pessoais de forma clara e atrativa.
+
+## 🎨 Protótipo no Figma
+
+A interface deste portfólio foi planejada previamente em Figma.  
+🔗 [Clique aqui para acessar o protótipo no Figma](https://www.figma.com/design/xlIhFfdHWuvlArvo7Cc198/First-project-IULL?t=Ce32aGLaz4m4GAKP-1)
+
+## 📁 Estrutura do Projeto
+
+```bash
+src/
+├── assets/                    # Recursos visuais
+├── components/                # Componentes reutilizáveis
+│   ├── Mars.vue
+│   ├── SiteHeader.vue
+│   ├── Stars.vue
+│   └── Uranus.vue
+├── plugins/                   # Configurações de plugins
+│   └── vuetify.ts
+├── views/                     # Páginas principais
+│   ├── AboutMe.vue
+│   ├── HelloMain.vue
+│   └── MyFormation.vue
+└── App.vue                    # Componente raiz
