@@ -1,10 +1,12 @@
 <template>
   <v-app>
     <v-main>
-      <SiteHeader />
-      <HelloMain />
-      <AboutMe />
-      <!-- <MyFormation /> -->
+      <container fluid class="pa-0 fill-height">
+        <SiteHeader />
+        <HelloMain />
+        <AboutMe />
+        <!-- <MyFormation /> -->
+      </container>
     </v-main>
   </v-app>
 </template>
