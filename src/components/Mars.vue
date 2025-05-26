@@ -11,7 +11,7 @@ import mars from "@/assets/mars.svg";
 <style scoped>
 .position-mars {
   position: absolute;
-  bottom: 40px;
+  top: 210px;
   right: 50px;
 }
 

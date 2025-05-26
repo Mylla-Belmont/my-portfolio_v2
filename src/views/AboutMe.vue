@@ -1,8 +1,14 @@
 <template>
   <v-container fluid class="pa-0 fill-height relative-container organic-background">
-    <v-row class="fill-height ml-10" align="center" justify="start">
-      <v-col cols="6">
+    <v-row class="fill-height ml-6" align="center" justify="start">
+      <v-col cols="4" class="ml-16">
         <div class="custom-name text-primary">About Me</div>
+        <div class="custom-text text-primary mt-4">
+          Lorem Ipsumis simply dummy text... Lorem Ipsumis simply dummy text of the printing and
+          typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since
+          the 1500s, when an unknown printer took a galley of type and scrambled it to make a type
+          specimen book.
+        </div>
         <div class="custom-text text-primary mt-4">
           Lorem Ipsumis simply dummy text... Lorem Ipsumis simply dummy text of the printing and
           typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since
@@ -25,9 +31,8 @@ import Stars from "@/components/Stars.vue";
 
 <style scoped>
 .organic-background {
-  position: relative;
+  position: absolute;
   background-image: url("@/assets/Vector 2@2x.svg");
-  background-position: top left;
   background-size: contain;
 }
 

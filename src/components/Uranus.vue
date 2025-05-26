@@ -11,7 +11,7 @@ import uranus from "@/assets/uranus.svg";
 <style scoped>
 .position-uranus {
   position: absolute;
-  bottom: 580px;
+  top: 30px;
   right: 340px;
 }
 

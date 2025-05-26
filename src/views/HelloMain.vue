@@ -1,8 +1,8 @@
 <template>
   <v-container fluid class="pa-0">
     <v-sheet class="bg-primary" height="100vh" width="100%">
-      <v-row class="fill-height" align="center" justify="space-around">
-        <v-col class="mr-8 ml-10" cols="8" sm="8" md="4">
+      <v-row class="fill-height" align="center" justify="space-evenly">
+        <v-col class="mr-8" cols="6" sm="8" md="4">
           <div class="custom-text text-secondary font-italic">Hello! I'm</div>
           <div class="custom-name text-secondary">Camila</div>
           <div class="custom-name text-secondary">Belmont</div>
@@ -11,7 +11,7 @@
           </div>
         </v-col>
         <v-col cols="4" sm="8" md="4">
-          <v-sheet class="ml-16" height="400" width="300" rounded="xl" />
+          <v-sheet height="400" width="450" rounded="xl" />
         </v-col>
       </v-row>
 
