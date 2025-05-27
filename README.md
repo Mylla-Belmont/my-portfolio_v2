@@ -1,6 +1,6 @@
 # 🌐 Portfólio Pessoal - Camila Belmont
 
-Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvido como um projeto visualmente criativo e funcional, com o objetivo de apresentar meus projetos, experiências acadêmicas e habilidades técnicas.
+Este repositório contém o código-fonte do meu portfólio pessoal - ainda em desenvolvimento -, com o objetivo de apresentar meus projetos, experiências acadêmicas e habilidades técnicas.
 
 ## ✨ Tecnologias Utilizadas
 
